@@ -1,0 +1,20 @@
+name: ml_hw1
+channels:
+- defaults
+dependencies:
+- matplotlib
+- numpy
+- tqdm
+- imageio
+- scikit-learn
+- notebook
+- statsmodels
+- jupyterlab
+- scikit-image
+- pandas
+- ipywidgets
+- statsmodels
+- seaborn
+- pip
+- pip:
+  - tweet-preprocessor
